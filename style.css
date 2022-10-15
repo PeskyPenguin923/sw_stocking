@@ -7,5 +7,13 @@ body {
 }
 
 .paint-container {
-    border: 2px, white;
+    border: white;
+    border-size: 4px;
+    width:250px;
+    height: auto;
+    text-align: center;
 }
+
+.container.h3 {
+    text-align: center;
+}    
