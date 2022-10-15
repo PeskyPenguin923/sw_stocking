@@ -16,6 +16,7 @@ body {
     border-bottom-style: solid;
     border-top-width: 4px;
     border-top-style: solid;
+    margin-left:2px;
     width:250px;
     height: auto;
     float: left;
