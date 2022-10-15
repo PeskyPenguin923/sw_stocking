@@ -7,7 +7,7 @@ body {
 }
 
 .paint-container {
-    border: white;
+    border-color: Orange;
     border-size: 4px;
     width:250px;
     height: auto;
