@@ -7,6 +7,20 @@ body {
 }
 
 .paint-container {
+    height: auto;
+    width: 300px;
+    border-color: rgb(46, 46, 209);
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-right-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-top-style: solid;
+}
+
+.ext-paint {
     border-color: rgb(46, 46, 209);
     border-left-style: solid;
     border-left-width: 4px;
@@ -17,9 +31,26 @@ body {
     border-top-width: 4px;
     border-top-style: solid;
     margin-left:2px;
-    width:250px;
     height: auto;
-    float: left;
+    width: 300px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.paint-product{
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    width: 300px;
+    border-color: rgb(46, 46, 209);
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-right-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-top-style: solid;
 }
 
 .home-links {
