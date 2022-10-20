@@ -6,6 +6,15 @@ body {
     box-sizing: border-box;
 }
 
+.label {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-around;
+
 .container {
     border-color: rgb(46, 46, 209);
     border-left-style: solid;
