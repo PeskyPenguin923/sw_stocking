@@ -8,6 +8,7 @@ body {
 
 .title{
     background-color: #181818;
+}    
     
 .label {
     display: flex;
@@ -18,6 +19,7 @@ body {
 .main-container {
     display: flex;
     justify-content: space-around;
+}
 
 .container {
     border-color: rgb(46, 46, 209);
