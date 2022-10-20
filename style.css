@@ -25,6 +25,18 @@ body {
     border-top-style: solid;
 }
 
+.inner-label {
+    border-color: rgb(79, 79, 83);
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-right-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-top-style: solid;
+}
+
 .main-container {
     display: flex;
     justify-content: space-around;
