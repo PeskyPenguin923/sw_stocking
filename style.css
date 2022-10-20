@@ -14,6 +14,15 @@ body {
     display: flex;
     justify-content: space-around;
     background-color: orange;
+    border-color: rgb(79, 79, 83);
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-right-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-top-style: solid;
 }
 
 .main-container {
@@ -22,7 +31,7 @@ body {
 }
 
 .container {
-    border-color: rgb(46, 46, 209);
+    border-color: rgb(79, 79, 83);
     border-left-style: solid;
     border-left-width: 4px;
     border-right-width: 4px;
@@ -39,7 +48,7 @@ body {
     
 
 .paint-product{
-    border-color: rgb(46, 46, 209);
+    border-color: rgb(79, 79, 83);
     border-left-style: solid;
     border-left-width: 4px;
     border-right-width: 4px;
