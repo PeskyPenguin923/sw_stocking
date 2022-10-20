@@ -6,9 +6,13 @@ body {
     box-sizing: border-box;
 }
 
+.title{
+    background-color: #181818;
+    
 .label {
     display: flex;
     justify-content: space-around;
+    background-color: orange;
 }
 
 .main-container {
@@ -26,6 +30,9 @@ body {
     border-top-width: 4px;
     border-top-style: solid;
     width: 200px;
+    height: max-content;
+    background-color: orange;
+    color: black;
 }
     
 
