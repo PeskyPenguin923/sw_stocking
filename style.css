@@ -20,10 +20,6 @@ body {
     
 
 .paint-product{
-    display: flex;
-    justify-content: space-around;
-    height: auto;
-    width: 300px;
     border-color: rgb(46, 46, 209);
     border-left-style: solid;
     border-left-width: 4px;
