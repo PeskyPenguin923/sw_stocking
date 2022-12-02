@@ -1,5 +1,5 @@
 body {
-    background-color: #181818;
+    background-color: #74000c;
     color: white;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
@@ -7,35 +7,19 @@ body {
 }
 
 .title{
-    background-color: #181818;
+    background-color: #74000c;
 }    
     
 .label {
     display: flex;
     justify-content: space-around;
-    color: black;
-    background-color: orange;
-    border-color: rgb(79, 79, 83);
-    border-left-style: solid;
-    border-left-width: 4px;
-    border-right-width: 4px;
-    border-right-style: solid;
-    border-bottom-width: 4px;
-    border-bottom-style: solid;
-    border-top-width: 4px;
-    border-top-style: solid;
+    color: white;
+    background-color: #74000c;
+    border-color: rgb(4 144 28);
 }
 
 .inner-label {
-    border-color: rgb(79, 79, 83);
-    border-left-style: solid;
-    border-left-width: 4px;
-    border-right-width: 4px;
-    border-right-style: solid;
-    border-bottom-width: 4px;
-    border-bottom-style: solid;
-    border-top-width: 4px;
-    border-top-style: solid;
+    font-size: 24px;
 }
 
 .main-container {
@@ -44,7 +28,7 @@ body {
 }
 
 .container {
-    border-color: rgb(79, 79, 83);
+    border-color: rgb(4 144 28);
     border-left-style: solid;
     border-left-width: 4px;
     border-right-width: 4px;
@@ -55,13 +39,13 @@ body {
     border-top-style: solid;
     width: 250px;
     height: max-content;
-    background-color: orange;
+    background-color: #ca2d2d;
     color: black;
 }
     
 
 .paint-product{
-    border-color: rgb(79, 79, 83);
+    border-color: rgb(4 144 28);
     border-left-style: solid;
     border-left-width: 4px;
     border-right-width: 4px;
