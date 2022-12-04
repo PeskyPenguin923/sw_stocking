@@ -171,6 +171,16 @@ body {
     background-color: #ca2d2d;
 }
 
+.primer-product {
+    width:-webkit-fill-available;
+}
+
+.primer {
+    display: flex;
+    justify-content: center;
+}
+
+
 .primer label {
     padding-left: 4px;
 }
