@@ -22,9 +22,14 @@ body {
 
 }
 
-.paint-product ul {
-    padding-left: 100px;
+.sheen-label {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
+
+
 
 .paint-product {
     width: -webkit-fill-available;
@@ -50,6 +55,15 @@ body {
 .sheen-container {
     display: flex;
     justify-content: space-evenly;
+}
+
+.base {
+    display: flex;
+    justify-content: space-between;
+}
+
+.base label {
+    padding-left: 2px;
 }
 
 .quart-product {
