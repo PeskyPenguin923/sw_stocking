@@ -40,7 +40,10 @@ body {
     padding-bottom: 5px;
 }
 
-
+.sheens {
+    display: flex;
+    justify-content: center;
+}
 
 .paint-product {
     width: -webkit-fill-available;
@@ -78,6 +81,9 @@ body {
     padding-left: 2px;
 }
 
+.sheens label {
+    padding-left: 4px;
+}
 .quart-product {
     width: -webkit-fill-available;
     border-right-style: solid;
@@ -153,6 +159,7 @@ body {
     padding-top: 10px;
     width: -webkit-fill-available;
     background-color: #ca2d2d;
+    color: black;
 }
 
 .primer-container {
@@ -169,6 +176,7 @@ body {
     padding-top: 10px;
     width: -webkit-fill-available;
     background-color: #ca2d2d;
+    color: black;
 }
 
 .primer-product {
