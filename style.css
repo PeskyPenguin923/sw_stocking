@@ -143,7 +143,33 @@ body {
     margin-top: 15px;
 }
 
-    
+.gallons-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: rgb(4 144 28);
+    padding-top: 10px;
+    width: -webkit-fill-available;
+    background-color: #ca2d2d;
+}
+
+.primers-quarts-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: rgb(4 144 28);
+    padding-top: 10px;
+    width: -webkit-fill-available;
+    background-color: #ca2d2d;
+}
+
+.primer label {
+    padding-left: 4px;
+}
 
 .home-links {
     width: auto;
